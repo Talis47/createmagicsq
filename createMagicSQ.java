@@ -1,3 +1,5 @@
+// Talis Harris C1758203 //
+
 import java.util.Scanner;
 
 public class createMagicSQ {
@@ -6,8 +8,8 @@ public class createMagicSQ {
         String input = "";
         int value;
         while (true) {
-            System.out.println("APP TO CREATE A MAGIC SQUARE:");
-            System.out.println("Please enter an odd integer:");
+            System.out.println("CM1210 APP TO CREATE A MAGIC SQUARE:");
+            System.out.println("Please enter an odd number:");
             Scanner scanner = new Scanner(System.in);
             input = scanner.nextLine();
             try {
